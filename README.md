@@ -5,7 +5,7 @@ A simple React-based webpage deployed via GitHub Pages.
 ## Live Demo
 https://shivaprasadacharya.github.io/trialwebpage/
 
-## Development
+## Development1
 ```bash
 # Install dependencies
 npm install
@@ -16,6 +16,17 @@ npm run dev
 # Build for production
 npm run build
 ```
+## Development2
+<pre>
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+</pre>
 
 ## Deployment
 
